@@ -1,8 +1,5 @@
 import os
 from google.cloud import storage
-import os
-from google.cloud import texttospeech_v1
-from google.cloud import storage
 
 credentials_path = "C:\\Users\\ivoma\\BlueWindowsAssess\\blissful-canyon-391010-7b70cb6300a0.json"
 
